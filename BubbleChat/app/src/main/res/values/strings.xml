@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubbleChat</string>
+    <string name="title_menu">더보기</string>
+    <string name="title_home">친구</string>
+</resources>
